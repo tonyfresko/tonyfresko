@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tonyfresko, a full-stack freelance Data Scientist
-- 👀 I’m interested in data science, renewable energy, web development (Flask), and music production
-- 🌱 I’m currently learning linear optimisation and devops practices
+- 👀 I’m interested in data science, renewable energy, web development (Flask/FastAPI), and music production
+- 🌱 I’m currently learning linear optimisation, reinforcemente learning and devops practices
 - 💞️ I’m looking to collaborate on open source projects in Python in my interest areas
 - 📫 You can reach me at sam.mason@protonmail.com
 
